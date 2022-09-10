@@ -1,0 +1,88 @@
+* {
+	color: black;
+}
+
+a {
+	color: darkturquoise;
+}
+
+#anchor1,
+#anchor2,
+#anchor3,
+#anchor4 {
+	color: blueviolet;
+}
+
+p.text {
+	color: black;
+}
+
+.description.text {
+}
+
+.text
+.item {
+}
+
+.begining p {
+
+}
+
+.header .text {
+	color: indigo;
+}
+
+.navigation * {
+
+}
+
+.sub-title > p {
+
+}
+
+.sub-title ~p {
+
+}
+
+.title + p {
+	
+}
+
+.wrapper {
+}
+.header {
+}
+.begining {
+}
+.main-title {
+	color: darkred;
+}
+.description {
+}
+.text {
+}
+.link {
+}
+.image {
+}
+.image-description {
+	color: darkmagenta;
+}
+.navigation {
+}
+.list {
+}
+.item {
+}
+.sub-navigation {
+}
+.main {
+}
+.title {
+	color: navy;
+}
+.sub-title {
+	color:lime;
+}
+.footer {
+}
